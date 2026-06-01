@@ -1,27 +1,37 @@
-# Subject
+# Hi, I'm Sundar Anbu 👋
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
+**Full-stack web developer** based in Bangalore, India, currently building at **Contiinex**. I work across the JavaScript / TypeScript ecosystem — React and Angular on the front end, Node.js and Python on the back end — and enjoy turning ideas into clean, working products.
 
-## Development server
+🌐 **Portfolio:** [web.sundaranbu.com](https://web.sundaranbu.com)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+### 🛠️ Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**Languages:** JavaScript · TypeScript · Python · C++ · HTML · CSS  
+**Frontend:** React · Angular · Responsive Web Design  
+**Backend:** Node.js · Express · Flask · REST APIs · OAuth  
+**Database:** MongoDB  
+**Tools:** Git · GitHub · Chrome Extensions
 
-## Build
+### 🚀 Featured Projects
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+| Project | What it does |
+| --- | --- |
+| [focus-bubble-google-extension](https://github.com/SundarAnbu18/focus-bubble-google-extension) | A Chrome extension to help you stay focused while browsing. |
+| [gpt-ui](https://github.com/SundarAnbu18/gpt-ui) | A ChatGPT-style conversational UI built in JavaScript. |
+| [json-form](https://github.com/SundarAnbu18/json-form) | Dynamically render forms from a JSON schema. |
+| [fitness_app](https://github.com/SundarAnbu18/fitness_app) | A fitness tracking application. |
+| [Node-URL-Shortener](https://github.com/SundarAnbu18/Node-URL-Shortener) | A URL shortener service built with Node.js and EJS. |
+| [password-file-share](https://github.com/SundarAnbu18/password-file-share) | Share files securely with password protection. |
 
-## Running unit tests
+### 📊 GitHub Stats
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Sundar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundarAnbu18&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SundarAnbu18&layout=compact&hide_border=true)
 
-## Running end-to-end tests
+### 🤝 Connect with me
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web.sundaranbu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaranbu/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sundaranbu_/)
