@@ -1,29 +1,42 @@
 # Hi, I'm Sundar Anbu 👋
 
-**Full-stack web developer** based in Bangalore, India, currently building at **Contiinex**. I work across the JavaScript / TypeScript ecosystem — React and Angular on the front end, Node.js and Python on the back end — and enjoy turning ideas into clean, working products.
+**AI Engineer** based in Bangalore, India — building LLM-powered applications and agentic systems at **VidvanConnect Software Solutions**.
+
+I came up as a full-stack and forward-deployed engineer, embedding with customers to scope ambiguous problems and own products from the first conversation to a deployed, maintained system across healthcare, edtech and AI startups. That end-to-end instinct is what I bring to AI engineering: retrieval that actually grounds its answers, agents that hold up outside a notebook, and tracing you can debug.
 
 🌐 **Portfolio:** [web.sundaranbu.com](https://web.sundaranbu.com)
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ What I work with
 
-**Languages:** JavaScript · TypeScript · Python · C++ · HTML · CSS  
-**Frontend:** React · Angular · Responsive Web Design  
-**Backend:** Node.js · Express · Flask · REST APIs · OAuth  
-**Database:** MongoDB  
-**Tools:** Git · GitHub · Chrome Extensions
+**LLM applications:** RAG · GraphRAG · LangChain · LangGraph · LangSmith · Model Context Protocol (MCP)
 
-### 🚀 Featured Projects
+**AI engineering:** Prompt engineering · Embeddings & semantic search · pgvector · Tool calling & agent orchestration · Evaluation & tracing · Fine-tuning open-weight models
+
+**Engineering foundation:** Python · TypeScript · React · Next.js · Node.js · FastAPI · PostgreSQL · MongoDB
+
+**Cloud & delivery:** AWS · Azure · GCP · Docker · Kubernetes · CI/CD (GitHub Actions)
+
+### 🚀 Building in the open
 
 | Project | What it does |
 | --- | --- |
-| [focus-bubble-google-extension](https://github.com/SundarAnbu18/focus-bubble-google-extension) | A Chrome extension to help you stay focused while browsing. |
-| [gpt-ui](https://github.com/SundarAnbu18/gpt-ui) | A ChatGPT-style conversational UI built in JavaScript. |
-| [json-form](https://github.com/SundarAnbu18/json-form) | Dynamically render forms from a JSON schema. |
-| [fitness_app](https://github.com/SundarAnbu18/fitness_app) | A fitness tracking application. |
-| [Node-URL-Shortener](https://github.com/SundarAnbu18/Node-URL-Shortener) | A URL shortener service built with Node.js and EJS. |
-| [password-file-share](https://github.com/SundarAnbu18/password-file-share) | Share files securely with password protection. |
+| [agentic-rag](https://github.com/SundarAnbu18/agentic-rag) | A GraphRAG + LangGraph research agent with LangSmith tracing. |
+| [enterprise-rag](https://github.com/SundarAnbu18/enterprise-rag) | Retrieval patterns for larger, production-shaped document corpora. |
+| [mcp](https://github.com/SundarAnbu18/mcp) | A Model Context Protocol server and client written in Python. |
+| [rag-document-qa](https://github.com/SundarAnbu18/rag-document-qa) | Retrieval-augmented Q&A over a PDF corpus, built stage by stage with LangChain. |
+| [ragbot](https://github.com/SundarAnbu18/ragbot) | Django RAG chatbot — FAISS + sentence-transformers retrieval, Claude generation, embeddable web widget. |
+| [personal-rag](https://github.com/SundarAnbu18/personal-rag) | A single-file personal RAG with date and tag filtering, written to be read end to end. |
+| [pandas-csv-qa](https://github.com/SundarAnbu18/pandas-csv-qa) | Natural-language questions over a CSV by prompt-stuffing — and where that stops scaling. |
+| [langgraph](https://github.com/SundarAnbu18/langgraph) | Experiments with LangGraph state machines and agent orchestration. |
+
+### 💼 Recent work
+
+- Designed a **cross-product AI support assistant** — a multi-tenant conversational layer over every product's documentation as a retrieval knowledge base, capturing cross-product feature-gap signals and auto-routing support tickets end to end.
+- Built an **LLM-assisted localisation pipeline** for a ~2,900-string locale catalogue, generating Bangla, Marathi and Gujarati translations with strict key-structure parity.
+- Delivered an **AI-enabled resource directory** for Blooming Health, matching members to nearby, in-language social-care services across the Maryland and New York deployments.
+- As freelance solutions architect, delivered a **full AWS environment and student-credit platform** for a U.S. non-profit.
 
 ### 📊 GitHub Stats
 
@@ -35,3 +48,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://web.sundaranbu.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaranbu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sundaranbu_/)
+
+---
+
+💬 Open to AI Engineer roles.
